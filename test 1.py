@@ -1,3 +1,4 @@
+print("Python program intended to compute the roots of the quadratic equation ax2+bx +c=0 provided that b2 − 4ac >=0 , given integers a, b and c")
 a = int(input("Enter a :))
 b = int(input("Enter b :"))
 c = int(input("Enter c :"))
